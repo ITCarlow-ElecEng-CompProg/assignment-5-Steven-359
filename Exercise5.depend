@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506424042 source:f:\programming\exercise5\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
+1506950668 source:d:\programming\exercise5\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
